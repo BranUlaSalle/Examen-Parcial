@@ -1,6 +1,6 @@
-#📝EXAMEN PARCIAL 
+# 📝EXAMEN PARCIAL 
 
-##👤DATOS DEL ESTUDIANTE
+## 👤DATOS DEL ESTUDIANTE
 
 *   **Nombres y Apellidos:** [Bran Yames Paz Patatingo ]
 *   **Asignatura:** [Analisis y Diseño de Algoritmos]
